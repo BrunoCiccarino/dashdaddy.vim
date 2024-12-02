@@ -2,6 +2,8 @@
 
 An awesome hackeable dashboard plugin for vim. Welcome to the new generation of configurations for Vim, style your configuration much more, being able to add a customizable dashboard in a simple way!
 
+![dashdaddy](./img/dashdaddy.jpg)
+
 ### Install
 
 To install via vim-plug, we can do it this way, add the following statement to your configuration file:
