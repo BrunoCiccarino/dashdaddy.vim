@@ -38,4 +38,9 @@ let g:dashboard_config = {
       \     {'label': 'Quit Vim', 'command': ':qa!<CR>'}
       \   ]
       \ }
+
+" After configuring `g:dashboard_config`, the dashboard will automatically load
+" when Vim starts with no arguments.
+"
+" To open the dashboard manually, use `:Dashboard`.
 ``` 
